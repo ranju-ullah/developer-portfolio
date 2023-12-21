@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+}
+.header{
+    background-color: antiquewhite;
+    background-image: url('../images/header_bg.png'),url('../images/developer.png');
+    background-repeat: no-repeat;
+    background-position: bottom right,left;
+}
+.text-primary{
+    color: tomato;
+}
+
+.nav-title{
+    font-size: 50px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 200px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    margin-right:50px;
+}
+.btn-primary{
+    height: 65px;
+    border: 0;
+    background-color: tomato;
+    color: white;
+    border-radius: 5px;
+    padding: 18px 35px;
+}
+/* banner Styles */
+.banner{
+    margin: 50px 200px;
+    display: flex;
+    align-items: center;
+
+}
+.banner-description{
+    margin-bottom: 20px;
+}
+/* Main Section */
+main{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+/* About Me section Styles */
+
+.about-me-section{
+    margin-top: 140px;
+    background-color: antiquewhite;
+    padding: 130px 150px;
+    text-align: center;
+
+}
+.section-title{
+    
+    margin-bottom: 50px;
+   
+
+}
+.section-description{
+
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+/* Skill Container Styles */
+.skill-container{
+    display: flex;
+    gap: 24px;
+    
+}
+.skill{
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+.section-title{
+    text-align: center;
+    
+}
+.skill{
+    padding:30px;
+
+}
+.skill-title{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
