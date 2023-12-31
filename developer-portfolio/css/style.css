@@ -108,3 +108,160 @@ main{
     font-weight: 700px;
 }
 
+/* what i do styles */
+.what-i-do{
+    margin: 130px 230px;
+    padding: 120px 156px;
+
+}
+.what-section-title{
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+/* skill section style */
+.skill-container{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+.skill{
+    height: 377px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    
+}
+.skill-title{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 27px;
+    margin-bottom: 27px;
+}
+.skill-description{
+    font-size:18px;
+}
+.resume{
+    margin-top: 130px;
+}
+.resume-title{
+    text-align: center;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 113px;
+}
+
+/* Resume Sytles */
+.resume-content-container{
+    display: flex;
+    gap: 380px;
+   
+    
+}
+.my-education{
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.my-experience{
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.heading-title{
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 30pxc     ;
+
+}
+.heading-sub-title{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 20px;
+
+}
+.heading-description{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+}
+.btn-primary3{
+    width: 150px;
+    height: 64px;
+    font-size: 20px;
+    border: 0;
+    background-color:#FD6E0A ;
+    border-radius: 5px;
+    color: white;
+    
+    
+
+}
+.resume-btn{
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* Contact Section Style */
+.contact{
+    display: flex;
+    /* margin: 130px 230px; */
+    padding: 120px 180px;
+    background: #FFF8F3;
+    gap: 50%;
+
+}
+.contact-title{
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.contact-description{
+    margin-bottom: 30px;
+}
+.contact a{
+    text-decoration: none;
+}
+.form-title{
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.text-input{
+    border: 0;
+    height: 64px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.text-email{
+    border: 0;
+    height: 64px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding-left: 10px;
+
+}
+
+.text-area{
+    width: 461px;
+    height: 180px;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+
+}
